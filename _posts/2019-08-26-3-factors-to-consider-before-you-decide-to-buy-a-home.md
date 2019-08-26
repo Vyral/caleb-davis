@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Factors to Consider Before You Decide to Buy a Home
-date: 2019-08-26 13:51:08
+date: 2019-08-26 13:51:00
 tags:
   - Home Buyer Tips
 excerpt: >-
