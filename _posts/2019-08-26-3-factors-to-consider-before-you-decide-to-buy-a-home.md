@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/8-22---caleb-davis---youtube.jpg
-youtube_code: 'https://youtu.be/bnuhZ_Ac7Kw'
+youtube_code: 5umWVYfNowc
 ---
 
 {% include youtube.html %}
@@ -28,7 +28,7 @@ The benefit of speaking with a real estate agent is they’re a licensed fiducia
 
 {% include pullquote.html %}
 
-The second factor is your **timeline horizon**. Are you’re looking to move within the next month, six months, or 12 months? If it’s within the next month, go talk to a real estate professional as soon as you can. If your timeline horizon is six to 12 months, you have more time to determine whether your finances are in order.&nbsp;
+The second factor is your **timeline horizon**. Are you looking to move within the next month, six months, or 12 months? If it’s within the next month, go talk to a real estate professional as soon as you can. If your timeline horizon is six to 12 months, you have more time to determine whether your finances are in order.&nbsp;
 
 The last factor is the one thing you don’t have control over: **interest rates**. Rates are significantly low right now, so it might not be a bad idea to consider buying soon.&nbsp;
 
