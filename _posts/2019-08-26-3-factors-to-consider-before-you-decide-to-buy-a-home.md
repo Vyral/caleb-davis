@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Here are the three factors to consider to decide whether now’s the time for
   you to buy a home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Caleb+Davis/3+Factors+to+Consider+Before+You+Decide+to+Buy+a+Home.mp4
 pullquote: >-
   Rates are significantly low right now, so it might not be a bad idea to
   consider buying soon.
