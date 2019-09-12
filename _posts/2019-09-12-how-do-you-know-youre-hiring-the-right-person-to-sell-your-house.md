@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do You Know You’re Hiring the Right Person to Sell Your House?
-date: 2019-09-12 18:09:45
+date: 2019-09-12 18:09:00
 tags:
   - Real Estate
 excerpt: >-
