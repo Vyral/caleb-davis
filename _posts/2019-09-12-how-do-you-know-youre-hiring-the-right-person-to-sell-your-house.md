@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you want to find the best agent to help you sell your home, take these
   steps.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Caleb+Davis/How+Do+You+Know+Youre+Hiring+the+Right+Person+to+Sell+Your+House_.mp4
 pullquote: >-
   If the listing agent seems friendly, knowledgeable, and otherwise engaged, I
   recommend doubling down on your research efforts by checking out their online
