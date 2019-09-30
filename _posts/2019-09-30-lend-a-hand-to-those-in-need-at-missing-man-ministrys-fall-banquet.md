@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lend a Hand to Those in Need at Missing Man Ministry’s Fall Banquet
-date: 2019-09-30 16:30:39
+date: 2019-09-30 16:30:00
 tags:
   - Real Estate
 excerpt: 'Missing Man Ministry’s annual fall banquet is coming up, and you’re invited.'
