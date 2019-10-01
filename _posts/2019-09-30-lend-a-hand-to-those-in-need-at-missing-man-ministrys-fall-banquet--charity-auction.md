@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Lend a Hand to Those in Need at Missing Man Ministry’s Fall Banquet
+title: >-
+  Lend a Hand to Those in Need at Missing Man Ministry’s Fall Banquet & Charity
+  Auction
 date: 2019-09-30 16:30:00
 tags:
   - Real Estate
