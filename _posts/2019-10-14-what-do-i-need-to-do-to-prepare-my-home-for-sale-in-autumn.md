@@ -18,6 +18,8 @@ youtube_code: 'https://youtu.be/Ruc1QevOMZI'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Today I’ll share my four tips for preparing your home for selling in autumn.</em></p>
+
 What do I need to do to prepare my home to sell in the autumn? Here are my top four tips:
 
 **1\. Analyze the market.** Make sure you price your home correctly. You may know how to do this, but if you reach out to a qualified real estate agent they can help you as well. There are several things you should consider about the market, but a major one is to understand the type of market your area is in. Is it a seller’s, buyer’s, or balanced market?
