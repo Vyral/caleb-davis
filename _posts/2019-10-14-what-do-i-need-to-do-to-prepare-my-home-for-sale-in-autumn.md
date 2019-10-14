@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Do I Need to Do to Prepare My Home for Sale in Autumn?
-date: 2019-10-14 15:43:26
+date: 2019-10-14 15:43:00
 tags:
   - Home Seller Tips
 excerpt: Today I’ll share my four tips for preparing your home for selling in autumn.
