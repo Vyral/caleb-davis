@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/Ruc1QevOMZI'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Today I’ll share my four tips for preparing your home for selling in autumn.</em></p>
+*Today I’ll share my four tips for preparing your home for selling in autumn.*
 
 What do I need to do to prepare my home to sell in the autumn? Here are my top four tips:
 
@@ -28,7 +28,7 @@ What do I need to do to prepare my home to sell in the autumn? Here are my top f
 
 {% include pullquote.html %}
 
-**3\. Decorate and embrace the season.** If you choose to sell your home in autumn, there are several decorating and staging tips for that season. Popular holidays coming up are Halloween and Thanksgiving. Don’t hesitate to decorate for those holidays, as you can help a possible buyer envision themselves living in the home during these times. Don’t go overboard, it’s not a good idea to decorate your house with gory decor and props. Be tactful and try to appeal to the masses.
+**3\. Decorate and embrace the season.** If you choose to sell your home in autumn, there are several decorating and staging tips for that season. Popular holidays coming up are Halloween and Thanksgiving. Don’t hesitate to decorate for those holidays, as you can help a possible buyer envision themselves living in the home during these times.Don’t go overboard, though—it’s not a good idea to decorate your house with gory decor and props.
 
 **4\. Turn on all the lights.** Showings in autumn are likely to happen when it’s dark, or getting dark outside. Having all your lights on will make your home seem larger. Your home could feel cramped, dim, and uninviting if it’s dark during the showing.
 
