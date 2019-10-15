@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/Ruc1QevOMZI'
 
 {% include youtube.html %}
 
-*Today I’ll share my four tips for preparing your home for selling in autumn.*
+<p style="text-align: center;"><em>Today I’ll share my four tips for preparing your home for selling in autumn.</em></p>
 
 What do I need to do to prepare my home to sell in the autumn? Here are my top four tips:
 
