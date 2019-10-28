@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/8Uv2YSj7aIk'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>If you’re thinking of buying a house this fall, here are a few key points you’ll need to consider.</em></p>
+
 For those thinking about buying a house in the fall season, what should you be considering? Today I’ll cover three key points to keep in mind.
 
 **1\. There is less competition.** Many consider the fall to be the off-season in real estate, but there are still homes for sale, and in some areas, there’s just as much inventory as the spring and summer. Fewer buyers tend to purchase in the fall, so that means you’ll have fewer offers to compete with. This also puts you in a great position to negotiate with sellers; some people need to have their home sold before the spring market.
