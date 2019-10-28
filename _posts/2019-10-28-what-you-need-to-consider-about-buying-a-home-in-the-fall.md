@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Need To Consider About Buying a Home in the Fall
-date: 2019-10-28 16:25:20
+date: 2019-10-28 16:25:00
 tags:
   - Home Buyer Tips
 excerpt: >-
