@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/PjcpMNcrr_U'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Like everybody else on the planet, you and I only have 24 hours in a day to spend. Here’s how this ties into real estate.</em></p>
+
 What do you and I both have in common with Oprah Winfrey and Darren Hardy?&nbsp;
 
 **We each have 24 hours in a day.** The only difference is how they spend their 24 hours and we spend ours.&nbsp;
