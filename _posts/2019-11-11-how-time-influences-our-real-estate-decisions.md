@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Time Influences Our Real Estate Decisions
-date: 2019-11-11 14:51:23
+date: 2019-11-11 14:51:00
 tags:
   - Real Estate
 excerpt: >-
