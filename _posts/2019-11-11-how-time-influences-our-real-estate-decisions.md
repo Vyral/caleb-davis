@@ -33,7 +33,7 @@ Whether you’re selling a home or upgrading for your first home purchase, you c
 
 {% include pullquote.html %}
 
-If you commute two hours a day, that adds up to 10 hours a week, 40 hours a month, and 360 hours a year. In total, that’s 15 days’ worth of driving—15 days that each have 24 hours in them. I don’t know about you, but most of my clients want what I want: more time with the people we love and work hard for.&nbsp;
+If you commute two hours a day, that adds up to 10 hours a week, 40 hours a month, and 360 hours a year. In total, that’s 15 days’ worth of driving—15 days that each has 24 hours in them. I don’t know about you, but most of my clients want what I want: more time with the people we love and work hard for.&nbsp;
 
 **So before you buy or sell, calculate your new proposed drive time** and decide if having twice the home for half the price is worth the precious moments with your friends, family, and loved ones that you’ll never get back.&nbsp;
 
