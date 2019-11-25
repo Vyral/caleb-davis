@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/6zh5efONuh4'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>When it comes to deferred maintenance, an ounce of prevention is worth a pound of cure.</em></p>
+
 What is deferred maintenance and how does it apply to a home sale?
 
 **Deferred maintenance is the work you’ve chosen to defer or address in your home at a future date.** Often when I’m hired to sell a property, there are upgrades that need to be made to sell the home for the highest price possible, such as repainting the interior, replacing the roof, etc.&nbsp;
