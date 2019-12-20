@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My New Year Gift to You!
-date: 2019-12-20 15:02:57
+date: 2019-12-20 15:02:00
 tags:
   - Real Estate
 excerpt: 'I want to give you a gift, and it’s all about gratitude.'
