@@ -17,6 +17,8 @@ youtube_code: yBdOv1mw_CQ
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>I want to give you a gift, and it’s all about gratitude.</em></p>
+
 Happy New Year\! I hope you’ve had an exceptionally productive 2019 and you’re prepared for 2020. As a thank you for your support, I want to send you a gift. It’s called the “5-Minute Journal”, and it’s all about gratitude. It’s a quick and easy way to write down the top three things that you are most grateful for in your life that day and then doing one thing each day to make sure it turns into an excellent one. Give me a call—I’ll make sure to connect with you and send you this gift. I’ll see you in 2020\!&nbsp;
 
 Also, if you ever have any questions about real estate, please don’t hesitate to give me a call or send me an email. I would love to help you.
