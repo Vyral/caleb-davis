@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does the Future Hold for Homebuyers and Sellers in 2020?
-date: 2020-01-27 16:07:31
+date: 2020-01-27 16:07:00
 tags:
   - Home Buyer Tips
 excerpt: >-
