@@ -20,6 +20,8 @@ youtube_code: 'https://youtu.be/6_NxpRbaKE8'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are a few tips that will help you prep your home for the market.</em></p>
+
 When is the right time to start preparing your home for the market? If you’re like me, you like to keep your home prepped for the market at all times...&nbsp;
 
 ...Just kidding\! With my wife, kids, and dogs in tow, there’s no way I can keep my house like that (even though I’d like to).&nbsp;
