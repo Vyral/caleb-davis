@@ -24,15 +24,15 @@ youtube_code: 'https://youtu.be/6_NxpRbaKE8'
 
 When is the right time to start preparing your home for the market? If you’re like me, you like to keep your home prepped for the market at all times...&nbsp;
 
-...Just kidding\! With my wife, kids, and dogs in tow, there’s no way I can keep my house like that (even though I’d like to).&nbsp;
+...Just kidding\! With my wife, kids, and dogs in tow, there’s no way I can keep my house like that.&nbsp;
 
 Preparing a house for the market can seem like a daunting process, so if you plan on selling in March, April, or May—historically, the best months to sell—you first need to **go room by room and take an inventory** of what state each room is in and what changes you’d like to see take place in those rooms.&nbsp;
 
 {% include pullquote.html %}
 
-If it were me, I’d start with my master bedroom because that’s the room I spend the most time in. After that, I’d move on to subsequent rooms, and then focus on the main areas like the kitchen and living room. Do these areas need paint or curtains? Does the flooring need to be redone?
+If it were me, I’d start with my master bedroom because that’s the room in which I spend the most time. After that, move on to the main areas like the kitchen and living room. Do these areas need paint or curtains? Does the flooring need to be redone?
 
-Next, I’d **look over the exterior of the home** and check whether it needs to be repainted or, for example, whether the downspouts need to be cleaned. If you hire a professional painter to do the job, they’ll actually power wash the house, too. Sometimes, the property doesn’t even need to be painted—it just needs a good power wash.&nbsp;
+Next, I’d **look over the exterior of the home** and check whether it needs to be repainted or, for example, whether the downspouts need to be cleaned. If you hire a professional painter to do the job, they’ll  power wash the house, too. Sometimes, the property doesn’t even need to be painted—it just needs a good power wash.&nbsp;
 
 Landscaping can seem daunting in and of itself. You can go overboard and spend upward of $30,000 to $50,000, or go the less expensive route and spend $3,000 to $5,000. In any case, it’s good to hire a professional to walk you through this project with you and offer tips on what to do (and not to do).&nbsp;
 
