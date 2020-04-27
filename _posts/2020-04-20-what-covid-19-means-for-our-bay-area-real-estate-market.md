@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What COVID-19 Means for Our Bay Area Real Estate Market
-date: 2020-04-20 15:25:28
+date: 2020-04-20 15:25:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/caleb-davis-hayward-real-estate-report-april-2020-youtube.jpg
-youtube_code: 'https://youtu.be/jSTDAkgewBo'
+youtube_code: JSEEX6Zhew8
 ---
 
 {% include youtube.html %}
