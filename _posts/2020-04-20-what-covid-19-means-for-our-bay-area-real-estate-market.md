@@ -19,4 +19,4 @@ youtube_code: JSEEX6Zhew8
 
 {% include youtube.html %}
 
-What does the coronavirus mean for our real estate market? As you may know, I send out a monthly newsletter called the Hayward Real Estate Report, and today I’ll share the highlights of April’s edition with you to answer that question. In general, I don’t foresee this pandemic hurting real estate values. For many reasons, homes are still selling, and we agents have adapted to the circumstances to help our clients. To get the full rundown, watch the video above.
+What does the coronavirus mean for our real estate market? As you may know, I send out a monthly newsletter called the East Bay Real Estate Report, and today I’ll share the highlights of April’s edition with you to answer that question. In general, I don’t foresee this pandemic hurting real estate values. For many reasons, homes are still selling, and we agents have adapted to the circumstances to help our clients. To get the full rundown, watch the video above.
