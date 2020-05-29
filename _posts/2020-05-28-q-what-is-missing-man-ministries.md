@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Q: What is Missing Man Ministries?'
-date: 2020-05-28 13:34:49
+title: 'Q: What Is Missing Man Ministries?'
+date: 2020-05-28 13:34:00
 tags:
   - Real Estate
 excerpt: Missing Man Ministries helps widows and orphans. Learn all about them here.
