@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Our 2020 Tomato Plant Giveaway Was a Hit!
-date: 2020-06-18 21:12:11
+date: 2020-06-18 21:12:00
 tags:
 excerpt: 'Despite the coronavirus, we still held our 2020 Tomato Plant Giveaway.'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/caleb-davis-tomato-plant-giveaway-yt.jpg
 youtube_code: iCLlIubYzsM
 ---
 
