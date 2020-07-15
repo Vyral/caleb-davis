@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/X8FvISlVIVk'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s what you should know about recent sales tax increases in our area.</em></p>
+
 Starting July 1, your local sales tax rate probably went up by more than 5%. Most people I mentioned this to in May and June were oblivious to it, but it’s a fact. The cities of Hayward, San Leandro, and Union City just went from 9.75 to 10.25, a 5.12% increase. In Castor Valley and San Lorenzo, it rose from 9.25 to 9.75, a 5.4% increase. **It sounds so small, but that small increase means a 5% decrease in your dollar’s purchasing power.**
 
 Whether we like it or not, taxation is a way of life, and the government will only want more in the future, not less. From 2008 to 2013, we saw so many people needlessly lose their homes to foreclosure because they didn’t get advice and didn’t take the proper actions ahead of time. Many good people simply let things spiral out of control, and they’re still hurting financially to this day.
