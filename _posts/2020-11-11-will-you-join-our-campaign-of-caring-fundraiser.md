@@ -16,7 +16,7 @@ youtube_code: 'https://youtu.be/9b-v1J9sw7s'
 
 {% include youtube.html %}
 
-*Help us give back this year by participating in our Campaign for Caring.*
+<p style="text-align: center;"><em>Help us give back this year by participating in our Campaign for Caring.</em></p>
 
 My wife Rachel and I have loved partnering with Missing Man Ministry, **a 100% volunteer-based program that benefits widows who have lost their husbands and children who have lost their fathers.&nbsp;**
 
