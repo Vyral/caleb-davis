@@ -5,7 +5,8 @@ date: 2020-11-11 19:59:00
 tags:
   - Real Estate
 excerpt: Help us give back this year by participating in our Campaign for Caring.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Caleb+Davis/Will+You+Join+Our+Campaign+of+Caring+Fundraiser_.mp4
 pullquote: 100% of the donated funds go to supporting widows and their children.
 enclosure_type: video/mp4
 enclosure_time:
