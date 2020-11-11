@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Will You Join Our Campaign of Caring Fundraiser?
-date: 2020-11-11 19:59:51
+date: 2020-11-11 19:59:00
 tags:
   - Real Estate
 excerpt: Help us give back this year by participating in our Campaign for Caring.
@@ -16,7 +16,7 @@ youtube_code: 'https://youtu.be/9b-v1J9sw7s'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Help us give back this year by participating in our Campaign for Caring.</em></p>
+*Help us give back this year by participating in our Campaign for Caring.*
 
 My wife Rachel and I have loved partnering with Missing Man Ministry, **a 100% volunteer-based program that benefits widows who have lost their husbands and children who have lost their fathers.&nbsp;**
 
@@ -30,6 +30,6 @@ Some ways that we’re able to help these widows is with financial gifts, chores
 
 I have a quick story I want to share with you. We came across two widows with four children who were raising them together while also doing distance learning off of one shared tablet and one shared smartphone. Because of donors like yourself, we were able to go out and get tablets for each of these children and their mothers. It felt like Christmas, and it made us so happy to be able to do that.
 
-Due to COVID-19, we’re putting off our annual in-person banquet that is the biggest fundraising event of the year for us. I would like to invite you, along with Rachel and I, to help support Missing Man Ministry. You can donate here, where 100% of funds go to helping support widows and their children. You can also share the video above with your friends on social media. **We want to get the word out to as many people as possible.**
+Due to COVID-19, we’re putting off our annual in-person banquet that is the biggest fundraising event of the year for us. I would like to invite you, along with Rachel and I, to help support Missing Man Ministry. You can <u><a target="_blank" rel="noopener" href="https://www.flipcause.com/secure/fundraiser/MTAwMTc4/51294">donate here</a></u>, where 100% of funds go to helping support widows and their children. You can also share the video above with your friends on social media. **We want to get the word out to as many people as possible.**
 
 If you have any questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
