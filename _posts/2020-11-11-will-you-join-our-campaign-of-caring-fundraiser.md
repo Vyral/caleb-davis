@@ -16,6 +16,8 @@ youtube_code: 'https://youtu.be/9b-v1J9sw7s'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Help us give back this year by participating in our Campaign for Caring.</em></p>
+
 My wife Rachel and I have loved partnering with Missing Man Ministry, **a 100% volunteer-based program that benefits widows who have lost their husbands and children who have lost their fathers.&nbsp;**
 
 One of the things that really makes this nonprofit stand out for me personally is the amount of courage that these widows consistently demonstrate in such a horrible time in their lives. It’s very moving for me personally and very near and dear to my heart.
